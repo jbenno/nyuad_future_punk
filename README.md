@@ -22,6 +22,8 @@ envision, draft and draw their own images and imaginations of alternative worlds
 critique and apply the futurist methods in the good old punk tradition, taking futurism and use 
 it for their own creations.
 
+[Additional information](/Info.md): Course number, course rational, methology, assignments, grading etc.
+
 ## Draft Schedule
 *Subject to minor modification and clarification of language. Readings/videos refer to the complete text/video except when indicated otherwise.
 
