@@ -138,99 +138,117 @@ Work on midterm project.
 The concept of salvation through future technology or other eschatological events
 
 #### Readings
-Kurzweil, Ray. The Singularity Is Near: When Humans Transcend Biology. 1st edition. Penguin Books, 2005.
-Flemming, Billy. “Building Utopia in Space.” Public Books (blog), July 22, 2019. https://www.publicbooks.org/building-utopia-in-space/.
-Stephenson, Neal. The Diamond Age by Neal Stephenson (2-Jun-2011) Paperback. Re-Issue edition. Penguin, 2011.
-Videos
-Fuller, R. Buchminster. R.Buckminster Fuller -  Spaceship Earth 1978. Accessed November 2, 2019. https://www.youtube.com/watch?v=dsOvE-ReX2g.
-Gwo, Frant. The Wandering Earth, 2019. http://www.imdb.com/title/tt7605074/.
-Assignments
+- Kurzweil, Ray. The Singularity Is Near: When Humans Transcend Biology. 1st edition. Penguin Books, 2005.
+- Flemming, Billy. “Building Utopia in Space.” Public Books (blog), July 22, 2019. https://www.publicbooks.org/building-utopia-in-space/.
+- Stephenson, Neal. The Diamond Age by Neal Stephenson (2-Jun-2011) Paperback. Re-Issue edition. Penguin, 2011.
+
+#### Videos
+- Fuller, R. Buchminster. R.Buckminster Fuller -  Spaceship Earth 1978. Accessed November 2, 2019. https://www.youtube.com/watch?v=dsOvE-ReX2g.
+- Gwo, Frant. The Wandering Earth, 2019. http://www.imdb.com/title/tt7605074/.
+
+#### Assignments
 Write a short essay (c. 2000 to 5000 characters) of critique on Kurzweil
 think of possible reconciliation of futurism with you own believes.
 
-Week 8: Systematic dystopianism
-Future punk in strategy and warfare
+### Week 8: Systematic dystopianism
+*Future punk in strategy and warfare*
 
 Understand military planning and strategic foresight: The necessity to turn futurists’ dreams into a nightmare of war, terrorism, and universal suspicion. 
-Readings
-US Army Press, Small Wars Journal, Warfare 2030 - 2050 Shabro, Luke, and Alison Winer, eds. Warfare in 2030 -2050 Compendium. U.S. Army Training and Doctrine Command, 2017. https://community.apan.org/wg/tradoc-g2/mad-scientist/m/science-fiction-writing-contest-documents/200204.
-Calder, David. “Science Fiction’s Hidden Codes.” Mad Scientist Laboratory (blog), March 28, 2019. https://madsciblog.tradoc.army.mil/132-science-fictions-hidden-codes/.
-Lee, Yoon Ha. Ninefox Gambit. Solaris, 2016.
-Videos
-Gilliam, Terry. Brazil, 1985. http://www.imdb.com/title/tt0088846/.
-Assignments
+
+#### Readings
+- US Army Press, Small Wars Journal, Warfare 2030 - 2050 Shabro, Luke, and Alison Winer, eds. Warfare in 2030 -2050 Compendium. U.S. Army Training and Doctrine Command, 2017. https://community.apan.org/wg/tradoc-g2/mad-scientist/m/science-fiction-writing-contest-documents/200204.
+- Calder, David. “Science Fiction’s Hidden Codes.” Mad Scientist Laboratory (blog), March 28, 2019. https://madsciblog.tradoc.army.mil/132-science-fictions-hidden-codes/.
+- Lee, Yoon Ha. Ninefox Gambit. Solaris, 2016.
+
+#### Videos
+- Gilliam, Terry. Brazil, 1985. http://www.imdb.com/title/tt0088846/.
+
+#### Assignments
 You only need to skim through the Warefare 2030 - 2050 reader and read the one or the other story, however read the other assigned readings completely. Design or draft a strategy game for a fictional conflict (format powerpoint slides, short essay of 3000 to 5000 characters, sketches, etc.).
 
-Week 9: What ever happens to musicians
-Soft signals and good narratives
+### Week 9: What ever happens to musicians
+*Soft signals and good narratives*
 
 The fine line between detecting weak (or soft) signals and anecdotal evidence: Make sense of single events and package it into a good story.
-Readings
-Philipp K. Dick, How to build a universe that doesn’t fall apart three days later. In: Dick, Philip K. The Shifting Realities of Philip K. Dick: Selected Literary and Philosophical Writings. Edited by Lawrence Sutin. Vintage Books ed edition. New York: Vintage, 1996.
-Holopainen, Mari, and Marja Toivonen. “Weak Signals: Ansoff Today.” Futures, Special Issue: Weak Signals, 44, no. 3 (April 1, 2012): 198–205. https://doi.org/10.1016/j.futures.2011.10.002.
-Cunha, Miguel Pina e, Stewart R. Clegg, and Ken Kamoche. “Improvisation as ‘Real Time Foresight.’” Futures, Special Issue: Weak Signals, 44, no. 3 (April 1, 2012): 265–72. https://doi.org/10.1016/j.futures.2011.10.009.
-Videos
-Rita McGrath. Weak Signals: Anticipating an Inflection Point Before It’s Too Late. Accessed November 2, 2019. https://www.youtube.com/watch?v=0Nxc9FOXW00.
-Assignments
+
+#### Readings
+- Philipp K. Dick, How to build a universe that doesn’t fall apart three days later. In: Dick, Philip K. The Shifting Realities of Philip K. Dick: Selected Literary and Philosophical Writings. Edited by Lawrence Sutin. Vintage Books ed edition. New York: Vintage, 1996.
+- Holopainen, Mari, and Marja Toivonen. “Weak Signals: Ansoff Today.” Futures, Special Issue: Weak Signals, 44, no. 3 (April 1, 2012): 198–205. https://doi.org/10.1016/j.futures.2011.10.002.
+- Cunha, Miguel Pina e, Stewart R. Clegg, and Ken Kamoche. “Improvisation as ‘Real Time Foresight.’” Futures, Special Issue: Weak Signals, 44, no. 3 (April 1, 2012): 265–72. https://doi.org/10.1016/j.futures.2011.10.009.
+
+#### Videos
+- Rita McGrath. Weak Signals: Anticipating an Inflection Point Before It’s Too Late. Accessed November 2, 2019. https://www.youtube.com/watch?v=0Nxc9FOXW00.
+
+#### Assignments
 Make a survey or other qualitative research on what might be already there and what we overlook.
 
-Week 10: Now Punk
-The weirdness of the present
+### Week 10: Now Punk
+*The weirdness of the present*
 
 Blame it on dystopias: Why is the future no longer fun? “Kitchen sink punk” gives you the answer: It is already here and it is much more evenly distributed than you might think.
-Readings
-Ashby, Madeline: By the time we get to the border,
-Singh, Vandana: Entanglement,
-Anders, Charlie Jane: The Day it all ended. In:
-Finn, Ed, Kathryn Cramer, and Arizona State University, eds. Hieroglyph: Stories and Visions for a Better Future. Reprint edition. New York: William Morrow Paperbacks, 2015.
-McCrudden, Chris. Battlestar Suburbia. Prelude Books, 2018.
-Maughan, Tim. “Flyover Country.” Vice (blog), November 25, 2016. https://www.vice.com/en_us/article/78kqkd/flyover-country.
-Ashby, Madeline. “Domestic Violence.” Slate Magazine, March 26, 2018. https://slate.com/technology/2018/03/domestic-violence-a-new-short-story-from-madeline-ashby.html.
-Videos
-Visions of the future - William Gibson and James Gleick Gibson, William. Visions of the Future • William Gibson & James Gleick. Accessed November 2, 2019. https://www.youtube.com/watch?v=M6dlA5uJYjs.
-Stross, Charles. Dude, You Broke the Future! 34C3. Accessed November 2, 2019. https://www.youtube.com/watch?v=RmIgJ64z6Y4.
-Assignments
+
+#### Readings
+  - Ashby, Madeline: By the time we get to the border,
+  - Singh, Vandana: Entanglement,
+  - Anders, Charlie Jane: The Day it all ended. In:
+- Finn, Ed, Kathryn Cramer, and Arizona State University, eds. Hieroglyph: Stories and Visions for a Better Future. Reprint edition. New York: William Morrow Paperbacks, 2015.
+- McCrudden, Chris. Battlestar Suburbia. Prelude Books, 2018.
+- Maughan, Tim. “Flyover Country.” Vice (blog), November 25, 2016. https://www.vice.com/en_us/article/78kqkd/flyover-country.
+- Ashby, Madeline. “Domestic Violence.” Slate Magazine, March 26, 2018. https://slate.com/technology/2018/03/domestic-violence-a-new-short-story-from-madeline-ashby.html.
+
+#### Videos
+- Visions of the future - William Gibson and James Gleick Gibson, William. Visions of the Future • William Gibson & James Gleick. Accessed November 2, 2019. https://www.youtube.com/watch?v=M6dlA5uJYjs.
+- Stross, Charles. Dude, You Broke the Future! 34C3. Accessed November 2, 2019. https://www.youtube.com/watch?v=RmIgJ64z6Y4.
+
+#### Assignments
 Write, draw, or design a kitchen sink punk episode, where things go wrong at home (can be a short novel of 3000 to 5000 characters, a series of Tweets or Facebook posts, images or sketches etc.).
  
-Week 11: The desert of the unreal
-Going really far to talk about important things
+### Week 11: The desert of the unreal
+*Going really far to talk about important things*
 
 When the certain predictions are dire and everything else is in flux, escape to fantasy is a good option not to get stuck.
-Readings
-Ken, Ning. “Modern China Is So Crazy It Needs a New Literary Genre.” Literary  Hub (blog), June 23, 2016. https://lithub.com/modern-china-is-so-crazy-it-needs-a-new-literary-genre/.
-Liu, Ken. Author Ken Liu Is Here to Talk About The Grace of Kings. Interview by Ria Misra, 2015. https://io9.gizmodo.com/author-ken-liu-is-here-to-talk-about-the-grace-of-kings-1717732508.
-Jingfang, Hao. “Folding Beijing.” Translated by Ken Liu. Uncanny Magazine, 2016. https://uncannymagazine.com/article/folding-beijing-2/.
-China’s New “Ultra-Unreal” Fiction: Only Strange Art Can Explain It Feola, Josh, and Michael Pettis. “China’s New ‘Ultra-Unreal’ Fiction: Only Strange Art Can Explain It.” Observer (blog), November 16, 2016. https://observer.com/2016/11/chinas-new-ultra-unreal-fiction-only-strange-art-can-explain-it/.
-Videos
-Frant Gwo: The Wandering Earth
-Assignments
+
+#### Readings
+- Ken, Ning. “Modern China Is So Crazy It Needs a New Literary Genre.” Literary  Hub (blog), June 23, 2016. https://lithub.com/modern-china-is-so-crazy-it-needs-a-new-literary-genre/.
+- Liu, Ken. Author Ken Liu Is Here to Talk About The Grace of Kings. Interview by Ria Misra, 2015. https://io9.gizmodo.com/author-ken-liu-is-here-to-talk-about-the-grace-of-kings-1717732508.
+- Jingfang, Hao. “Folding Beijing.” Translated by Ken Liu. Uncanny Magazine, 2016. https://uncannymagazine.com/article/folding-beijing-2/.
+- China’s New “Ultra-Unreal” Fiction: Only Strange Art Can Explain It Feola, Josh, and Michael Pettis. “China’s New ‘Ultra-Unreal’ Fiction: Only Strange Art Can Explain It.” Observer (blog), November 16, 2016. https://observer.com/2016/11/chinas-new-ultra-unreal-fiction-only-strange-art-can-explain-it/.
+
+#### Videos
+N.N.
+
+#### Assignments
 Draft the proposal of your final project.
 
-Week 12: Punk
-Patching it together
+### Week 12: Punk
+*Patching it together*
 
 The final project: Do punk stuff. Collage together what we have done so far. Now we have it all together. Let’s use the scraps we salvaged from our deconstruction of futurism. 
 
 This week kicks off the final projects. The final project should introduce “the general public” (e.g. the audience of a media channel or visitors to a gallery show) to the universe of the course’s topic. It should be aesthetically as well as visually compelling incorporating critical thoughts and speculative creativity. In particular, the project should make use of the multicultural and polyglot environment on campus and in the Emirates, ideally shining light on a real task that might lie ahead of the Gulf region or a place with specific meaning and relation to the maker(s) of the project.
 
 The project proposals will be presented and discussed in class.
-Readings
-Pho, Diane M. “About Beyond Victoriana.” Beyond Victoriana (blog), March 4, 2010. https://beyondvictoriana.com/about/.
-Al-Maria, Sophia. “The Gaze of Sci-Fi Wahabi: THE GAZE OF SCI-FI WAHABI.” The Gaze of Sci-Fi Wahabi (blog), September 7, 2008 and following posts. http://scifiwahabi.blogspot.com/2008/09/gaze-of-sci-fi-wahabi.html.
-Assignments
+
+#### Readings
+- Pho, Diane M. “About Beyond Victoriana.” Beyond Victoriana (blog), March 4, 2010. https://beyondvictoriana.com/about/.
+- Al-Maria, Sophia. “The Gaze of Sci-Fi Wahabi: THE GAZE OF SCI-FI WAHABI.” The Gaze of Sci-Fi Wahabi (blog), September 7, 2008 and following posts. http://scifiwahabi.blogspot.com/2008/09/gaze-of-sci-fi-wahabi.html.
+
+#### Assignments
 Working on the final project. Discussion and studio-class
 
-Week 13: Final project work and discussions
-Studio class
+### Week 13: Final project work and discussions
+*Studio class*
 
 Working on the final project. Discussion and studio-class
-Readings
-Negarestani, Reza. Cyclonopedia: Complicity with Anonymous Materials. First Edition edition. Mansfield, TX: re.press, 2008.
-Assignments
+
+##### Readings
+- Negarestani, Reza. Cyclonopedia: Complicity with Anonymous Materials. First Edition edition. Mansfield, TX: re.press, 2008.
+
+#### Assignments
 Final project
 
-Week 14: Final project presentations and discussion
-Studio class
+### Week 14: Final project presentations and discussion
+*Studio class*
 
 Presentation of the final project.
 
