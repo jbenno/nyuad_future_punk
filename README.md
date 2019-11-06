@@ -1,5 +1,7 @@
 # Future Punk
 
+*Speculative fiction, strategy planning, future studies: We work our way through the field of futurism and use its methods as our creative tool*
+
 The future: let’s patch it together from scraps. Future studies and strategic foresight are 
 methods of guiding businesses and politics. Punk means to take the master’s tools apart, 
 repurpose them to serve our own goals. 
@@ -25,7 +27,7 @@ it for their own creations.
 [Additional information](/Info.md): Course number, course rational, methology, assignments, grading etc.
 
 ## Draft Schedule
-*Subject to minor modification and clarification of language. Readings/videos refer to the complete text/video except when indicated otherwise.
+*Subject to minor modification and clarification of language. Readings/videos refer to the complete text/video except when indicated otherwise.*
 
 ### Week 1: What is future (if anything at all)
 *Introduction: What is the future? How can we think *about the future?*
