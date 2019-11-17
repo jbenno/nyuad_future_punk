@@ -1,6 +1,6 @@
 # Future Punk - Additional Information.
 
-[Week by week schedule](\README.md)
+[Week by week schedule](https://github.com/jbenno/nyuad_future_punk/wiki)
 
 #### Instructor: Joerg Blumtritt
 #### Course Number: IM-UH 2513 
