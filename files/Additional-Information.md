@@ -1,12 +1,12 @@
 # Future Punk - Additional Information.
 
-[Week by week schedule](https://github.com/jbenno/nyuad_future_punk/wiki)
+[Week by week schedule](https://github.com/jbenno/nyuad_future_punk#schedule)
 
 #### Instructor: Joerg Blumtritt
 #### Course Number: IM-UH 2513 
 Credit Hours: 4  
 Prerequisites: None  
-Time: Tues. 10:25-13:05, Thurs. 10:25-11:40  
+Time: Tues. 13:15-15:55, Thurs. 13:15-14:30  
 Classroom: IM Lab C3-029  
 Office Hours: Wednesdays by appointment  
 Office: C3 163  
