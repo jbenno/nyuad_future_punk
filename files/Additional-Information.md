@@ -7,9 +7,9 @@
 Credit Hours: 4  
 Prerequisites: None  
 Time: Tues. 13:15-15:55, Thurs. 13:15-14:30  
-Classroom: IM Lab C3-029  
+Classroom: Online
 Office Hours: Wednesdays by appointment  
-Office: C3 163  
+Office: Online
 
 ### Course Rationale
 
