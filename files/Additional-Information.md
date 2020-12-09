@@ -1,3 +1,4 @@
+<sup>|[&uarr; Back to course home page](/README.md) |</sup>
 # Future Punk - Additional Information.
 
 [Week by week schedule](https://github.com/jbenno/nyuad_future_punk#schedule)
@@ -6,7 +7,7 @@
 #### Course Number: IM-UH 2513 
 Credit Hours: 4  
 Prerequisites: None  
-Time: Tues. 13:15-15:55, Thurs. 13:15-14:30  
+Time: Classes meet at varying times. See [_Assignments_](#assignments)  
 Classroom: Online
 Office Hours: Wednesdays by appointment  
 Office: Online
@@ -38,6 +39,9 @@ The course is laid-out to work with futurism as a creative tool. The field of fu
 - Reading and watching the provided material is required each week in advance.
 - Assigned readings and videos will be discussed in class. Preparedness (i.e. having read/watched the assigned material), active participation, and therefore attendance to the classes will be graded.
 - All assignments are to be submitted via NYU Classes. Submitting just a link is absolutely sufficient unless stated otherwise.
+- Please note the dates and times here:  
+  [Overview on the weekly scheduled assignments and talks](https://docs.google.com/spreadsheets/d/1X1GFioqqV0LJTk4EP8K0p6nl-vHBqKvkfuaAfof8oeA/edit?usp=sharing)
+
 
 ## Grades and Rubrics
 
@@ -84,3 +88,9 @@ All potential violations to this community academic integrity standard (includin
 
 ## IM Lab and Tool Training
 Tool training is mandatory for using the IM LAB (Room C3 029).
+
+***
+
+<sup>|[&uarr; Back to course home page](/README.md) |</sup>
+<sup>NYU Abu Dhabi ***[Future Punk](/README.md)*** by [Joerg Blumtritt](https://jbenno.net) [@jbenno](https://twitter.com/jbenno) - Other classes I teach: [github.com/jbenno](https://github.com/jbenno/teaching/blob/master/README.md)</sup>
+
