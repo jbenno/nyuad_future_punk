@@ -47,7 +47,20 @@ http://www.iftf.org/future-now/
 https://www.lsnglobal.com/  
 https://www.france24.com/en/20200103-tech24-science-of-predicting-future-futurologists-changeist-bassme-the-box-1  
 
-##### 2020s
+#### 2021 as seen from 2020
+https://www.f5.com/company/blog/the-top-10--top-10-predictions-for-2021  
+https://nymag.com/intelligencer/2020/12/kara-swisher-and-scott-galloways-big-2021-predictions.html  
+https://go.forrester.com/wp-content/uploads/2020/10/Forrester_Predictions_2021.pdf  
+https://www.gartner.com/smarterwithgartner/gartner-top-10-strategic-predictions-for-2021-and-beyond/  
+https://www.cnbc.com/2020/12/23/brian-sullivan-5-predictions-for-2021.html  
+https://fortune.com/2020/12/01/2021-predictions-economy-politics-technology-entertainment/  
+https://www.theatlantic.com/ideas/archive/2020/12/the-2021-post-pandemic-prediction-palooza/617332/  
+https://www.economist.com/the-world-in-2021  
+https://www.nytimes.com/2020/12/22/dining/food-trends-predictions-2021.html  
+https://www.wired.com/story/gadget-lab-podcast-485/  
+
+
+##### 2020s as predicted 2019
 https://avc.com/2019/12/what-happened-in-the-2010s/  
 https://alexdanco.com/2019/12/17/ten-predictions-for-the-2020s/ 
 https://danwang.co/2019-letter/  
