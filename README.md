@@ -44,10 +44,7 @@ it for their own creations.
 #### [Week 1: What is future (if anything at all)](/files/01.md)
 *Introduction: What is the future? How can we think *about the future?*
 
-#### [Week 2: There is no future](/files/02.md)
-*Utopia, uchronia, science fiction, speculation, exotism, escapism, Techno-determinism, Future punk*
-
-#### [Week 3: Speculative strategies and big business](/files/03.md)
+#### [Week 2 and 3: Speculative strategies and big business]](/files/02.md)
 *Paul Saffo, scenario planning, “the dark spot of the next five to ten years”, Hype cycles, Possible vs. preferable, Speculative design, Planning your startup*
 
 #### [Week 4: Futurisms](/files/04.md)
