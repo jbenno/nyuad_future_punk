@@ -7,3 +7,4 @@ https://youtu.be/f56GYhogXJU
 https://www.youtube.com/watch?v=LThZvr-7BfM
 
 #### 02
+https://youtu.be/QNvtdWAOsew
