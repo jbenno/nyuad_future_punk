@@ -15,3 +15,6 @@ https://youtu.be/AGhh_qhI1zk
 
 #### 05
 https://youtu.be/JJB8Kpag0Mc
+
+#### 06
+https://youtu.be/NkWKpvLvYTw  
