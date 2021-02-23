@@ -18,3 +18,6 @@ https://youtu.be/JJB8Kpag0Mc
 
 #### 06
 https://youtu.be/NkWKpvLvYTw  
+
+#### 07
+https://youtu.be/9TZheSah33k  
