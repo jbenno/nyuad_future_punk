@@ -50,9 +50,6 @@ it for their own creations.
 #### [Week 4: Futurisms](/files/04.md)
 *Manifestos, creating the future, declaring the future, understanding what might come, Ethno- and other identity-futurisms*
 
-#### Midterm project
-Draft and prototype “A thing from the future”, based on both, utopian thinking and startup ideology. The project can make use of creative writing, corporate “business planning”, visual techniques, maker tools, etc. The proposals will be presented and discussed in class before the work on the actual projects start.
-
 #### [Week 5: Pace layers, history and other forms of velocity](/files/05.md) 
 *Con- and a-temporality*
 
