@@ -21,3 +21,6 @@ https://youtu.be/NkWKpvLvYTw
 
 #### 07
 https://youtu.be/9TZheSah33k  
+
+#### 08
+https://youtu.be/07fRadRKHFE
