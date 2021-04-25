@@ -21,11 +21,23 @@ Understanding the tools of foresight, planning and controlling can be a key skil
 The course is laid-out to work with futurism as a creative tool. The field of futurism will be introduced and worked through along the lines of design, strategy, science and science fiction. While also introducing the more traditional methods of strategic planning and foresight, the main focus will be put on the emerging cultures of post-colonial futurism, in particular in the Gulf region. At the end, the students will have the skills to see the future like a futurist, and how to express what they see in a creative way.
 
 ### Learning Outcomes
+### Course learning outcomes
+(reference to programme learning outcomes in brackets (PLO)
+1. (PLO 1): Get a solid overview on the field of futurism by reading and watching two or more key texts/talks/videos per week, summarizing and presenting your thoughts and discuss in class.
+2. (PLO 3): Build skills in understanding the futurist framework from business and policy-making perspective by applying it to various “real world” tasks: In weekly assignments as well as the two projects, you will develop scenarios, bring your application into a format to share with and to get feedback from the class.
+3. (PLO 6): Practice creative making within the futurist frameworks, focused on interactive media: Although critical reading/watching/writing/discussion will be part of weekly assignments, creativity and exploration of interactive media will be strongly emphasized.
+4. (PLO 4): Reflecting on the Gulf region: Application of the course’s topics to aspects of the Emirates and the region.
 
-1.	Get a solid overview on the field of futurism by reading and watching two or more key texts/talks/videos per week, summarizing and presenting your thoughts and discuss in class.
-2.	Build skills in understanding the futurist framework from business and policy-making perspective by applying it to various “real world” tasks: In weekly assignments as well as the two projects, you will develop scenarios, bring your application into a format to share with and to get feedback from the class.
-3.	Practice creative making within the futurist frameworks, focused on interactive media: Although critical reading/watching/writing/discussion will be part of weekly assignments, creativity and exploration of interactive media will be strongly emphasized.
-4.	Reflecting on the Gulf region: Application of the course’s topics to aspects of the Emirates and the region.
+### Programme Learning Outcomes
+Upon completion of the major in Interactive Media at NYU Abu Dhabi, all students are expected to have fulfilled the following:
+1. Research and Understanding: IM students will cultivate a substantive understanding of the past, present, and future landscape of Interactive Media.
+2. Analytical Thinking: IM students will be challenged to answer fundamental questions relating to the field of Interactive Media.
+3. Conceptual Thinking: IM students will develop conceptual skills through the use of computational and interactive media tools to create project-based work and project oriented research.
+4. Critical Thinking: IM students will refine their critical thinking skills by analysing and critiquing work in cultural, social, historical, ethical, and aesthetic contexts.
+5. Technical Implementation: IM students will cultivate technical skills with contemporary media technologies to execute their coursework.
+6. Creative Processes: IM students will gain the ability to explore, innovate, and realise creative ideas in multiple fields of inquiry and interest.
+7. Organisation and Communication: IM students will develop professional practices of delivering and sharing their work.
+8. Collaboration: IM Students will gain experience in collaboration through active participation in group and team-based work.
 
 ## Teaching and Learning Methodologies
 
