@@ -1,6 +1,6 @@
 # Future Punk
 ### NYU Abu Dhabi, Interactive Media
-### Spring 2020, IM-UH 2513
+### Spring 2022, IM-UH 2513
 #### Joerg Blumtritt
 
 *Speculative fiction, strategy planning, future studies: We work our way through the field of futurism and use its methods as our creative tool*
