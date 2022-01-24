@@ -84,6 +84,9 @@ Week 12 through 14 focus on the final project.
 
 Presentation of the final project.
 
+### Assignments
+[Overview on the weekly schedul with the topics and assignments](https://docs.google.com/spreadsheets/d/1X1GFioqqV0LJTk4EP8K0p6nl-vHBqKvkfuaAfof8oeA/edit?usp=sharing)  
+
 ***
 
 <sup>NYU Abu Dhabi ***[Future Punk](/README.md)*** by [Joerg Blumtritt](https://jbenno.net) [@jbenno](https://twitter.com/jbenno) - Other classes I teach: [github.com/jbenno](https://github.com/jbenno/teaching/blob/master/README.md)</sup>
