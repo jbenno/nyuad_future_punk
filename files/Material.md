@@ -47,6 +47,22 @@ http://www.iftf.org/future-now/
 https://www.lsnglobal.com/  
 https://www.france24.com/en/20200103-tech24-science-of-predicting-future-futurologists-changeist-bassme-the-box-1  
 
+#### 2022 ... from 2021 etc.
+https://www.visualcapitalist.com/prediction-consensus-what-the-experts-see-coming-in-2022/  
+https://www.cnet.com/tech/cnet-predictions-for-2022-ways-the-world-will-change-year-ahead/  
+https://www.economist.com/the-world-ahead-2022  
+https://www.nytimes.com/2021/12/28/dining/food-trends-predictions-2022.html  
+https://www.vox.com/future-perfect/22824620/predicting-midterms-covid-roe-wade-oscars-2022  
+https://www.ipsos.com/en/global-predictions-2022  
+https://www.niemanlab.org/collection/predictions-2022/  
+https://www.mckinsey.com/featured-insights/what-major-themes-will-we-see-in-global-media-in-2022-what-should-we-see-more-of  
+https://news.northwestern.edu/stories/2021/12/predictions-for-2022/&fj=1  
+https://pws.blackstone.com/emea/education-insights/article/blackstone-quarterly-webcast-the-ten-surprises-of-2022/  
+https://aws.amazon.com/executive-insights/content/five-tech-predictions-2022-and-beyond/  
+https://www.quantumrun.com/future-timeline/2023  
+https://www.politico.com/news/magazine/2022/01/21/media-journalism-future-527294  
+
+
 #### 2021 as seen from 2020
 https://www.f5.com/company/blog/the-top-10--top-10-predictions-for-2021  
 https://nymag.com/intelligencer/2020/12/kara-swisher-and-scott-galloways-big-2021-predictions.html  
