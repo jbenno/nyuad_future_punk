@@ -84,8 +84,12 @@ Week 12 through 14 focus on the final project.
 
 Presentation of the final project.
 
+### Video lectures
+For the links to the videos on Youtube see here: [/files/videos.md](/files/videos.md)
+
 ### Assignments
-[Overview on the weekly schedul with the topics and assignments](https://docs.google.com/spreadsheets/d/1X1GFioqqV0LJTk4EP8K0p6nl-vHBqKvkfuaAfof8oeA/edit?usp=sharing)  
+Assignments are submitted on NYU Brightspace.
+Here is an [overview on the weekly schedul with the topics and assignments](https://docs.google.com/spreadsheets/d/1X1GFioqqV0LJTk4EP8K0p6nl-vHBqKvkfuaAfof8oeA/edit?usp=sharing)  
 
 ***
 
