@@ -48,6 +48,7 @@ https://www.lsnglobal.com/
 https://www.france24.com/en/20200103-tech24-science-of-predicting-future-futurologists-changeist-bassme-the-box-1  
 
 #### 2022 ... from 2021 etc.
+https://twitter.com/Jaideep_mann/status/1484900181913239555  
 https://www.visualcapitalist.com/prediction-consensus-what-the-experts-see-coming-in-2022/  
 https://www.cnet.com/tech/cnet-predictions-for-2022-ways-the-world-will-change-year-ahead/  
 https://www.economist.com/the-world-ahead-2022  
