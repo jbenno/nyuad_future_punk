@@ -51,8 +51,7 @@ Upon completion of the major in Interactive Media at NYU Abu Dhabi, all students
 - Reading and watching the provided material is required each week in advance.
 - Assigned readings and videos will be discussed in class. Preparedness (i.e. having read/watched the assigned material), active participation, and therefore attendance to the classes will be graded.
 - All assignments are to be submitted via NYU Classes. Submitting just a link is absolutely sufficient unless stated otherwise.
-- Please note the dates and times here:  
-  [Overview on the weekly scheduled assignments and talks](https://docs.google.com/spreadsheets/d/1X1GFioqqV0LJTk4EP8K0p6nl-vHBqKvkfuaAfof8oeA/edit?usp=sharing)
+- Please note the dates and times on the spreadsheet provided at the footer of each schedule pages.  
 
 
 ## Grades and Rubrics
